@@ -1,0 +1,2 @@
+# Plataforma-Simulada-de-Ciberseguran-a-Gest-o-de-Incidentes-de-Seguran-a
+Objetivo do Sistema: O sistema tem como objetivo gerenciar incidentes de segurança, permitindo o registro, acompanhamento e resolução de problemas dentro de um ambiente simulado. Esse projeto é relevante para demonstração de competências em segurança da informação, organização de dados e controle de permissões (RBAC - Role-Based Access Control).
